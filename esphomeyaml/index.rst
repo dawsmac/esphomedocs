@@ -230,25 +230,25 @@ Sensor Components
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
 `MAX6675`_                                         `MH-Z19`_                                          `MPU6050`_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-|MQTT Subscribe|_                                  |MS5611|_                                          |Pulse Counter|_
+|MQTT Subscribe|_                                  |MS5611|_                                          |PMSX003|_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-`MQTT Subscribe`_                                  `MS5611`_                                          `Pulse Counter`_
+`MQTT Subscribe`_                                  `MS5611`_                                          `PMSX003`_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-|Rotary Encoder|_                                  |SHT3X-D|_                                         |TCS34725|_
+|Pulse Counter|_                                   |Rotary Encoder|_                                  |SHT3X-D|_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-`Rotary Encoder`_                                  `SHT3X-D`_                                         `TCS34725`_
+`Pulse Counter`_                                   `Rotary Encoder`_                                  `SHT3X-D`_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-|Template Sensor|_                                 |TSL2561|_                                         |Ultrasonic Sensor|_
+|TCS34725|_                                        |Template Sensor|_                                 |TSL2561|_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-`Template Sensor`_                                 `TSL2561`_                                         `Ultrasonic Sensor`_
+`TCS34725`_                                        `Template Sensor`_                                 `TSL2561`_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-|Uptime Sensor|_                                   |WiFi Signal Strength|_                            |Xiaomi MiFlora|_
+|Ultrasonic Sensor|_                               |Uptime Sensor|_                                   |WiFi Signal Strength|_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-`Uptime Sensor`_                                   `WiFi Signal Strength`_                            `Xiaomi MiFlora`_
+`Ultrasonic Sensor`_                               `Uptime Sensor`_                                   `WiFi Signal Strength`_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-|Xiaomi MiJia|_                                    |Custom Sensor|_
+|Xiaomi MiFlora|_                                  |Xiaomi MiJia|_                                    |Custom Sensor|_
 -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
-`Xiaomi MiJia`_                                    `Custom Sensor`_
+`Xiaomi MiFlora`_                                  `Xiaomi MiJia`_                                    `Custom Sensor`_
 ================================================== ================================================== ==================================================
 
 .. |Sensor Core| image:: /esphomeyaml/images/folder-open.svg
@@ -329,6 +329,9 @@ Sensor Components
 .. |MS5611| image:: /esphomeyaml/images/ms5611.jpg
     :class: component-image
 .. _MS5611: /esphomeyaml/components/sensor/ms5611.html
+.. |PMSX003| image:: /esphomeyaml/images/pmsx003.svg
+    :class: component-image
+.. _PMSX003: /esphomeyaml/components/sensor/pmsx003.html
 .. |Pulse Counter| image:: /esphomeyaml/images/pulse.svg
     :class: component-image
 .. _Pulse Counter: /esphomeyaml/components/sensor/pulse_counter.html

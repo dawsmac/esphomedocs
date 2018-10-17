@@ -34,6 +34,7 @@ See :cpp:func:`Application::register_sensor`.
     mpu6050
     mqtt_subscribe
     ms5611
+    pmsx003
     pulse_counter
     rotary_encoder
     sht3xd

@@ -348,6 +348,7 @@ See Also
     mqtt_subscribe
     ms5611
     pulse_counter
+    pmsx003
     rotary_encoder
     sht3xd
     tcs34725
